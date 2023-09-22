@@ -21,17 +21,5 @@ window.Config = {
       text: '我的主页',
       url: 'https://www.wangez.site'
     },
-    {
-      text: '我的笔记',
-      url: 'https://note.wangez.site'
-    },
-    {
-      text: 'github主页demo',
-      url: 'https://demo.nedwang.cn'
-    },
-    {
-      text: 'Api服务',
-      url: 'https://api.wangez.site'
-    },
   ],
 };
